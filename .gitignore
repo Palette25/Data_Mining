@@ -1,1 +1,6 @@
 *.csv
+
+/Homework2/src/parallel_gdbt/Parallel_GBDT
+
+*.exe
+*.pdf
